@@ -1,7 +1,7 @@
 name: HikariLib
 version: ${project.version}
 main: dev.ghast.libraries.HikariLib
-api-version: 1.16
+api-version: 1.13
 load: STARTUP
 authors: [Ghast]
 description: Quick library injection for HikariCP
